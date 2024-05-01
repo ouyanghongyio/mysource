@@ -58,4 +58,6 @@ https://ouyanghongyio.github.io/mysource/docs/
 
 [ubuntuInstallNocos](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallNocos.md)
 
+[ubuntuInstallJdk](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallJdk.md)
+
 [springCloudAlibabaDemo](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/springCloudAlibabaDemo.md)
