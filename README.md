@@ -20,6 +20,12 @@ github + github pages + markdown
 
 #### 3、github 新建mysource 空仓库
 
+<rich-text>
+  <span style="text-align: center; clear: both; display: block;margin: auto;">
+    <img src="https://ouyanghongyio.github.io/mysource/docs/common/image/README1.png" alt="https://ouyanghongyio.github.io/mysource/docs/common/image/README1.png" />
+  </span>
+</rich-text>
+
 #### 4、上传本地项目
 
 #### 5、github pages 设置
@@ -43,3 +49,13 @@ https://ouyanghongyio.github.io/mysource/docs/article/*/文章名称.md
 ```
 https://ouyanghongyio.github.io/mysource/docs/
 ```
+
+### 示例展示
+
+[项目展示地址](https://ouyanghongyio.github.io/mysource/)
+
+[ubuntuInstallMysql](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallMysql.md)
+
+[ubuntuInstallNocos](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallNocos.md)
+
+[springCloudAlibabaDemo](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/springCloudAlibabaDemo.md)
