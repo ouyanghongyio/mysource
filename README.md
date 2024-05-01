@@ -14,7 +14,7 @@ github + github pages + markdown
 
 <rich-text>
   <span style="text-align: center; clear: both; display: block;margin: auto;">
-    <img src="https://ouyanghongyio.github.io/mysource/docs/common/image/README0.png" alt="https://ouyanghongyio.github.io/mysource/common/image/README0.png" />
+    <img src="https://ouyanghongyio.github.io/mysource/docs/common/image/README0.png" alt="https://ouyanghongyio.github.io/mysource/docs/common/image/README0.png" />
   </span>
 </rich-text>
 
