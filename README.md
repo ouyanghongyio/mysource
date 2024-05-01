@@ -14,7 +14,7 @@ github + github pages + markdown
 
 <rich-text>
   <span style="text-align: center; clear: both; display: block;margin: auto;">
-    <img src="https://ouyanghongyio.github.io/mysource/common/image/README0.png" alt="https://ouyanghongyio.github.io/mysource/common/image/README0.png" />
+    <img src="https://ouyanghongyio.github.io/mysource/docs/common/image/README0.png" alt="https://ouyanghongyio.github.io/mysource/common/image/README0.png" />
   </span>
 </rich-text>
 
@@ -29,17 +29,17 @@ github + github pages + markdown
 #### 1、api接口访问方式：
 
 ```
-https://ouyanghongyio.github.io/mysource/api/*/接口名称.json
+https://ouyanghongyio.github.io/mysource/docs/api/*/接口名称.json
 ```
 
 #### 2、article文章访问方式：
 
 ```
-https://ouyanghongyio.github.io/mysource/article/*/文章名称.md
+https://ouyanghongyio.github.io/mysource/docs/article/*/文章名称.md
 ```
 
 #### 3、资源访问根路径
 
 ```
-https://ouyanghongyio.github.io/mysource/
+https://ouyanghongyio.github.io/mysource/docs/
 ```

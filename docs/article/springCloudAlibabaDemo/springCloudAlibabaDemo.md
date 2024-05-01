@@ -125,13 +125,13 @@ pox.xml 添加spring-alibaba依赖
 
 <rich-text>
   <span style="text-align: center; clear: both; display: block;margin: auto;">
-    <img src="./readmeImages/creat-model-common-zi-0.png" alt="creat-model-common-zi-0.png" />
+    <img src="https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo1.png" alt="https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo1.png" />
   </span>
 </rich-text>
 
 <rich-text>
   <span style="text-align: center; clear: both; display: block;margin: auto;">
-    <img src="./readmeImages/creat-model-common-zi-1.png" alt="creat-model-common-zi-1.png" />
+    <img src="https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo2.png" alt="https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo2.png" />
   </span>
 </rich-text>
 
