@@ -99,6 +99,8 @@ use mysql
 update user set host = '%' where user ='root';
 # 配置IP 5.7
 grant all privileges on *.* to root@"%" identified by "密码";
+# 注意，此种赋权方式已经要被弃用，所以在 8.0中这种方式赋权报错，只能使用先创建用户，再赋权的操作。如下所示
+grant all privileges on *.* to root@"%";
 
 # 刷新缓存
 flush privileges;

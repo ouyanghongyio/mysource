@@ -56,7 +56,7 @@ https://ouyanghongyio.github.io/mysource/docs/
 
 [ubuntuInstallMysql](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallMysql.md)
 
-[ubuntuInstallNocos](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallNocos.md)
+[ubuntuInstallNocos](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallNacos.md)
 
 [ubuntuInstallJdk](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallJdk.md)
 

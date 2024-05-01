@@ -637,5 +637,4 @@ root@ubuntu-server-01:/usr/local# java -version
 java version "1.8.0_411"
 Java(TM) SE Runtime Environment (build 1.8.0_411-b09)
 Java HotSpot(TM) 64-Bit Server VM (build 25.411-b09, mixed mode)
-
 ```
