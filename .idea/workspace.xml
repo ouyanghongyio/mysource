@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff11665f-b207-48a2-8d97-2c688aaf10a6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/springCloudAlibabaDemo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/ubuntuInstallNocos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/common/image/README0.png" afterDir="false" />
+    <list default="true" id="ff11665f-b207-48a2-8d97-2c688aaf10a6" name="更改" comment="修改 README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,34 +25,58 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fqK8kbAGmU5SWIk970vEkoo48K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/programfile/jetbra-idea-project/mysource/docs/common/image",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/programfile/jetbra-idea-project/mysource&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\programfile\jetbra-idea-project\mysource\docs\common\image" />
       <recent name="D:\programfile\jetbra-idea-project\mysource\docs\article\springCloudAlibabaDemo\image" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programfile\jetbra-idea-project\mysource\docs\article\springCloudAlibabaDemo\image" />
+      <recent name="D:\programfile\jetbra-idea-project\mysource\docs\article\springCloudAlibabaDemo\sql" />
+      <recent name="D:\programfile\jetbra-idea-project\mysource\docs\common\image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="mysource" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="mysource" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,11 +86,104 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714523013364</updated>
-      <workItem from="1714523014426" duration="2704000" />
+      <workItem from="1714523014426" duration="46512000" />
+      <workItem from="1714615226232" duration="88000" />
+      <workItem from="1714615322039" duration="48000" />
+      <workItem from="1714615400182" duration="186000" />
+      <workItem from="1714615617082" duration="437000" />
     </task>
+    <task id="LOCAL-00001" summary="项目初始化">
+      <option name="closed" value="true" />
+      <created>1714525815873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714525815873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改 README.md&#10;修改 springCloudAlibabaDemo.md">
+      <option name="closed" value="true" />
+      <created>1714526202277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714526202277</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改 README.md">
+      <option name="closed" value="true" />
+      <created>1714526332860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714526332860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改 README.md&#10;新增 ubuntuInstallMysql.md&#10;新增 ubuntuInstallNocos.md">
+      <option name="closed" value="true" />
+      <created>1714540858181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714540858181</updated>
+    </task>
+    <task id="LOCAL-00005" summary="新增 ubuntuInstallJdk.md&#10;修改 ubuntuInstallMysql.md&#10;修改 README.md">
+      <option name="closed" value="true" />
+      <created>1714558567663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714558567663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改 ubuntuInstallMysql.md ubuntuInstallJdk.md ubuntuInstallNacos.md README.md">
+      <option name="closed" value="true" />
+      <created>1714579086410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714579086410</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改 README.md">
+      <option name="closed" value="true" />
+      <created>1714579373290</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714579373290</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目初始化" />
+    <MESSAGE value="修改 README.md&#10;修改 springCloudAlibabaDemo.md" />
+    <MESSAGE value="修改 README.md&#10;新增 ubuntuInstallMysql.md&#10;新增 ubuntuInstallNocos.md" />
+    <MESSAGE value="新增 ubuntuInstallJdk.md&#10;修改 ubuntuInstallMysql.md&#10;修改 README.md" />
+    <MESSAGE value="修改 ubuntuInstallMysql.md ubuntuInstallJdk.md ubuntuInstallNacos.md README.md" />
+    <MESSAGE value="修改 README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改 README.md" />
   </component>
 </project>
