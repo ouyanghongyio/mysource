@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff11665f-b207-48a2-8d97-2c688aaf10a6" name="更改" comment="修改 README.md">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mysource.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/image/springCloudAlibabaDemo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/sql/spring-cloud-alibaba-demo.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/article/syntax/mysqlSyntax.md" afterDir="false" />
+    <list default="true" id="ff11665f-b207-48a2-8d97-2c688aaf10a6" name="更改" comment="新增 mysqlSyntax.md&#10;新增 spring-cloud-alibaba-demo.sql&#10;新增 spring_cloud_alibaba_demo_navicat.sql&#10;修改 springCloudAlibabaDemo.md&#10;修改 README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/springCloudAlibabaDemo.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/article/springCloudAlibabaDemo/springCloudAlibabaDemo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +80,7 @@
       <workItem from="1714615617082" duration="437000" />
       <workItem from="1714616057198" duration="19746000" />
       <workItem from="1714667483898" duration="940000" />
-      <workItem from="1714698872880" duration="11569000" />
+      <workItem from="1714698872880" duration="12077000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <option name="closed" value="true" />
@@ -152,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714616110358</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="新增 mysqlSyntax.md&#10;新增 spring-cloud-alibaba-demo.sql&#10;新增 spring_cloud_alibaba_demo_navicat.sql&#10;修改 springCloudAlibabaDemo.md&#10;修改 README.md">
+      <option name="closed" value="true" />
+      <created>1714711644055</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714711644055</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +190,7 @@
     <MESSAGE value="新增 ubuntuInstallJdk.md&#10;修改 ubuntuInstallMysql.md&#10;修改 README.md" />
     <MESSAGE value="修改 ubuntuInstallMysql.md ubuntuInstallJdk.md ubuntuInstallNacos.md README.md" />
     <MESSAGE value="修改 README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改 README.md" />
+    <MESSAGE value="新增 mysqlSyntax.md&#10;新增 spring-cloud-alibaba-demo.sql&#10;新增 spring_cloud_alibaba_demo_navicat.sql&#10;修改 springCloudAlibabaDemo.md&#10;修改 README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增 mysqlSyntax.md&#10;新增 spring-cloud-alibaba-demo.sql&#10;新增 spring_cloud_alibaba_demo_navicat.sql&#10;修改 springCloudAlibabaDemo.md&#10;修改 README.md" />
   </component>
 </project>

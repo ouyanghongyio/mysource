@@ -66,4 +66,4 @@ spring-cloud-alibaba-demo:
 
 syntax:
 
-[syntax](https://ouyanghongyio.github.io/mysource/docs/article/syntax/syntax.md)
+[syntax](https://ouyanghongyio.github.io/mysource/docs/article/syntax/mysqlSyntax.md)
