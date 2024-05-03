@@ -54,6 +54,8 @@ https://ouyanghongyio.github.io/mysource/docs/
 
 [项目展示地址](https://ouyanghongyio.github.io/mysource/)
 
+spring-cloud-alibaba-demo:
+
 [ubuntuInstallMysql](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallMysql.md)
 
 [ubuntuInstallNacos](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallNacos.md)
@@ -61,3 +63,7 @@ https://ouyanghongyio.github.io/mysource/docs/
 [ubuntuInstallJdk](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/ubuntuInstallJdk.md)
 
 [springCloudAlibabaDemo](https://ouyanghongyio.github.io/mysource/docs/article/springCloudAlibabaDemo/springCloudAlibabaDemo.md)
+
+syntax:
+
+[syntax](https://ouyanghongyio.github.io/mysource/docs/article/syntax/syntax.md)
